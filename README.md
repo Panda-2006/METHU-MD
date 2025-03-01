@@ -39,14 +39,14 @@
 
 02 . GET YOUR SESSION ID USING PAIRCODE  💛
 
-<a href="https://prabath-md-pair-web-v2-slk.koyeb.app/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="275"></a>
+<a href="https://khanmdx.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="275"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 03 . NOW METHU MD BOT DEPLOY PLATFORMS  💚
 
-DEPLOY ON PANEL ( BOT HOSTING )  🩵
+DEPLOY ON PANEL ( BOT HOSTING )  🧡
  
 <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
