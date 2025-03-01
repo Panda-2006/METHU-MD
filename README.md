@@ -6,7 +6,7 @@
 ***
 
   <p align="center">
-<a href="https://github.com/ACD-MD-TEAM/ACD-MD-TESTING/new/main">
+<a href="https://github.com/Darksenu/METHU-MD.git">
     <img src="https://i.ibb.co/SXvNd406/Picsart-25-02-28-13-46-38-821.jpg'/"  width="700px">
 </a>
 
@@ -17,13 +17,13 @@
  
 <p align="center">
 
-  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029Vb64PCj8aKvHofelFx2P" target="_blank">
+  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029Vb7zZ9uCHDyqYLV4QM1N" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
   </a>
 
 <p align="center">
 
-  <a aria-label="WhatsApp Supported Channel" href="https://chat.whatsapp.com/Dj4MT92HvJi8yRMcF9B2z2" target="_blank">
+  <a aria-label="WhatsApp Supported Channel" href="https://chat.whatsapp.com/LbKvzrJjnZ5EEqM3AEcsCq" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
@@ -31,33 +31,33 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-01 . FIRST FORK THIS REPO  🍒
+01 . FIRST FORK THIS REPO  💛
 
-<a href="https://github.com/ACD-MD-TEAM/ACD-MD-BOT-V1/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="250" /></a>
+<a href="https://github.com/Darksenu/METHU-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="250" /></a>
   <div>
 <div>
 
-02 . GET YOUR SESSION ID USING PAIRCODE  🍋
+02 . GET YOUR SESSION ID USING PAIRCODE  💛
 
 <a href="https://prabath-md-pair-web-v2-slk.koyeb.app/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="275"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-03 . NOW METHU MD BOT DEPLOY PLATFORMS  🫐
+03 . NOW METHU MD BOT DEPLOY PLATFORMS  💛
 
-DEPLOY ON PANEL ( BOT HOSTING )  🍏
+DEPLOY ON PANEL ( BOT HOSTING )  💛
  
 <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 
-DEPLOY ON HEROKU  🍇
+DEPLOY ON HEROKU  💛
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ACD-MD-TEAM/ACD-MD-TESTING)
    </a>
 
 
-### BOT FEATURES  🎯
+### BOT FEATURES  🌈
 
 | MAIN MENU | GROUP MENU | DOWNLOAD MENU | SEARCH MENU | OTHER MENU |
 | --------| ----------- | --------- | ----------- | -------- | 
@@ -69,11 +69,10 @@ DEPLOY ON HEROKU  🍇
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-THE BOT IS UNDER THE DEVELOPMENT SOMETIMES YOU CAN SEE SOME ERRORS  📍
+THE BOT IS UNDER THE DEVELOPMENT SOMETIMES YOU CAN SEE SOME ERRORS  🌟
 
 DONOT THINK ABOUT THAT ,
 
 *WE WILL FIX THE ERRORS IN THE NEXT UPDATE  ✅*
 
 <a><img src='https://i.imgur.com/dBaSKWF.gif'/></a>
-
