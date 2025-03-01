@@ -31,7 +31,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-01 . FIRST FORK THIS REPO  💛
+01 . FIRST FORK THIS REPO  ♥️
 
 <a href="https://github.com/Darksenu/METHU-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="250" /></a>
   <div>
@@ -44,16 +44,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-03 . NOW METHU MD BOT DEPLOY PLATFORMS  💛
+03 . NOW METHU MD BOT DEPLOY PLATFORMS  💚
 
-DEPLOY ON PANEL ( BOT HOSTING )  💛
+DEPLOY ON PANEL ( BOT HOSTING )  🩵
  
 <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 
-DEPLOY ON HEROKU  💛
+DEPLOY ON HEROKU  💙
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ACD-MD-TEAM/ACD-MD-TESTING)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Darksenu/METHU-MD.git)
    </a>
 
 
