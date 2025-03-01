@@ -1,0 +1,36 @@
+{
+  "name": "METHU-MD",
+  "description": "Javascript WhatsApp bot made by cybar sithuwa",
+  "logo": "https://i.ibb.co/SXvNd406/Picsart-25-02-28-13-46-38-821.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put Your SESSION ID",
+      "required": false
+    },
+
+      "AUTO_READ_STATUS": {
+       "description": "true or false",
+         "required": false
+
+     },
+
+      "MODE": {
+         "description": "priver/public",
+            "required": false
+
+     }
+
+  },
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-22"
+  
+  
+}
